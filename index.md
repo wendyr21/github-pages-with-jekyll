@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "wendys world"
 ---
 
-I'm glad you are here. I plan to talk about ...
+this is me <strong>Wendy</strong> how are you?
